@@ -1,4 +1,4 @@
-# ObjectOrientedProgramming
+# Object_Oriented_Programming
 Univ.
 
 객체지향프로그래밍 (2학년)
